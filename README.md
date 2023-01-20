@@ -9,6 +9,4 @@
 - 💻 Windows/Linux user
 - ⚡  English and Portuguese speaker 
 
-
-<img align="center" alt="Guilherme-Python" height="60" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"> 
-<img align="center" alt="Guilherme-VBA" height="60" width="150" src="https://d33wubrfki0l68.cloudfront.net/563a38d3ea3ca39e5618c82ea7bb979d19b73526/2223b/images/uploads/2019/09/excel-logo.png"style="max-width: 100%;">
+<img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"> <img align="center" alt="Lucas-Go" height="30" width="" src="https://d33wubrfki0l68.cloudfront.net/563a38d3ea3ca39e5618c82ea7bb979d19b73526/2223b/images/uploads/2019/09/excel-logo.png" style="max-width: 100%;">
