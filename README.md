@@ -6,10 +6,10 @@
 ### Introduction:
 
 - 📖 I'm studying Mechanical and Computer Engineering
-- ⚙️ I’m currently working with mechanical enginieering
+- ⚙️ I’m currently working with mechanical engineering
 - 🌱 I’m currently learning Python and improving my skills in Excel VBA 
 - 💻 Windows/Linux user
-- 🇬🇧  English and Portuguese speaker 
+- 🇬🇧 English and Portuguese speaker 
 
 ### Languages and Integration:
 
