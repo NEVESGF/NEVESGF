@@ -7,7 +7,7 @@
 
 - 📖 I'm studying Mechanical and Computer Engineering
 - ⚙️ I’m currently working with mechanical engineering
-- 🌱 I’m currently learning Python and improving my skills in Excel VBA 
+- 🌱 I’m currently learning Python and Go, always working to improve my skills.
 - 💻 Windows/Linux user
 - 🇬🇧 English and Portuguese speaker 
 
